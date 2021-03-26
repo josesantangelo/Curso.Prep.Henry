@@ -23,5 +23,8 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
+  },
+  "dependencies": {
+    "jshint": "^2.12.0"
   }
 }
