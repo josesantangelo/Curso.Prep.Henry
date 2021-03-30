@@ -1,0 +1,87 @@
+[33m21348e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Faltan colors, revisar de primos para abajo
+[33mb4221e6[m homework 02 completo
+[33m30c13b8[m Fix numeroMasGrande
+[33ma20e32c[m fix CuentoElementos
+[33m8b42d1a[m Arregla enunciado 02-JS-I
+[33ma1e3bdc[m Update homework.js
+[33mbc6bf17[m fixs typo
+[33m7eea993[m Corrige error, faltaban líneas de texto en el archivo editorTexto
+[33m53205b4[m Corrige errores de test y enunciados en la homework 03-JS-II
+[33m91d1b56[m Merge pull request #24 from elenaGonzalez/ejerciciosExtras
+[33m9189f49[m Corrige error del README
+[33mf9f8f52[m Corrige ejercios de Clase Persona y agrega tests
+[33m6e9ff11[m Agrega test a ejercicios crearPersona y agregarMetodo(Persona)
+[33mb05322b[m Falta finalizar tests de los últimos 3 ejercicios
+[33m4e56d45[m Agrega ejercicios extra con test
+[33ma1e6a54[m Arregla detalles
+[33m4160659[m Modifica ejercicio
+[33ma3b2c22[m Ejercicios finalizados.Arreglo de detalles
+[33m5da5b5f[m Merge ejercicios extras
+[33ma5ae1c7[m Agrega funciones y sus tests a la homework 10-Extra-Homeworks
+[33me17c176[m Agrega ejercicio palindromo y test parcial
+[33mc632ba3[m Modifica homework 07 y tests, finalizado
+[33m6fc6157[m Homework 04 con tests, finalizado
+[33m03d777f[m Modifica ejercicios en homework 03 y test finalizados para homework 03
+[33m6537f28[m Arregla conflictos en test JSII
+[33m778be64[m Borra result.json
+[33mb7204ba[m Modifica homework 02 y agrega test
+[33m22436f5[m Archivo 10-Js-Extra-Homeworks preparado para escribir funciones y tests
+[33mc600739[m Último faltante de mergear
+[33m38a056a[m Merge de ejercicios
+[33m683ac0b[m Agrego ejercicios a las homeworks 02, 03 y 04 con sus respectivos tests
+[33mb7b6041[m agrega ejercicios de wanda a homeworks
+[33mda3a178[m Update README.md
+[33m208c88d[m adds 00 primeros pasos, draft 2
+[33m4a1d4cb[m adds modulo 0 primeros pasos - draft 1
+[33ma620e6b[m fixed error in the Math.round section
+[33mfb34ca1[m Update README.md
+[33m32503c9[m adds link to clases Conceptos, fixs package.json
+[33mea88a41[m adds ofuscated submit
+[33m555d348[m CP commiteado por atralice a las 1606253620495
+[33m12a6ae1[m CP commiteado por Todobien4390 a las 1606253586885
+[33meca519f[m CP commiteado por atralice a las 1606253420731
+[33m6996a80[m adds class video
+[33m1493eda[m changed pictures, fixs typos
+[33m3e0ae82[m expressions statements first draft
+[33m07c7318[m Update README.md
+[33me8504d7[m (fix) some better help texts
+[33m88a5d5e[m adds feedback form to all classes
+[33mc60957c[m Obfuscate submit
+[33mcdf8eab[m Remove hw 1 from submit and add note in Readme about that
+[33m1e6d0ef[m Fix wrong name of hw 5 in submit
+[33m2e2485d[m Remove innecessary files
+[33m6e688a9[m Add submit
+[33mf940269[m CP commiteado por franverri a las 1602788983791
+[33mde3cfdd[m fix-typo
+[33m643e86a[m Update README.md
+[33m6ec96d9[m Update README.md
+[33me8fc24a[m updates README.md
+[33m88509c9[m updates prep course
+[33m30ead09[m Create CNAME
+[33mf888caf[m agregar horas estimadas por tema
+[33mc3a3b65[m agregado de links de soluciones en la homework
+[33mb05c852[m wording revision
+[33m4a1e690[m agregar links de homework en cada readme
+[33m9ca3441[m Update README.md
+[33m36f7cff[m Update README.md
+[33m7fb6ec3[m Update README.md
+[33m887eb35[m Merge pull request #3 from atralice/revision
+[33m982bab9[m cambio logo git readme
+[33m450d308[m revision
+[33m306f7ae[m adds videos
+[33m88ed6c8[m adds new readme
+[33m9814110[m Set theme jekyll-theme-cayman
+[33md5dd4cf[m Set theme jekyll-theme-tactile
+[33m69db7d7[m Set theme jekyll-theme-tactile
+[33m41d2874[m Set theme jekyll-theme-midnight
+[33m3a521de[m Update README.md
+[33m64dc741[m Fix homework HTML
+[33md3a02a2[m Merge pull request #2 from atralice/ondemandv2
+[33mf53f05b[m arreglados los links del readme principal y los numeros de leccion de los otros readme
+[33m1b5abba[m Merge pull request #1 from atralice/js-lessons
+[33m7032912[m merge toni lessons for henry prep lessons 2-6
+[33ma2dc604[m Fix img folders + README HTML
+[33m3b9331b[m Refactor Git Lesson
+[33ma88cd81[m Reordenamiento
+[33mf566709[m Archivos iniciales
+[33m70829d7[m Initial commit
