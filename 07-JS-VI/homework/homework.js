@@ -1,18 +1,18 @@
+/* jshint esversion : 6 */
+
 // Do not change any of the function names
 
 function mayuscula(nombre) {
     //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
     //ej: Recibe "mario" ----> Devuelve "Mario"
     //Tu código:
-    var primeraLetra = nombre.charAt(0);
-    var mayus = primeraLetra.toUpperCase();
-    return mayus + nombre.slice(1);
+    return nombre.charAt(0).toUpperCase() + nombre.slice(1);
 }
 
 function invocarCallback(cb) {
     // Invoca al callback `cb`
     //Tu código:
-    return cb();
+    cb();
 }
 
 function operacionMatematica(n1, n2, cb) {
@@ -28,8 +28,8 @@ function sumarArray(numeros, cb) {
     // No es necesario devolver nada
     //Tu código:
 
-    let suma = numeros.reduce(function(acc, element) {
-        return acc + element;
+    let suma = numeros.reduce(function(acc, cv) {
+        return acc + cv;
     });
     cb(suma);
 }
@@ -59,7 +59,7 @@ function filter(array) {
     //Filtrar todos los elementos del array que comiencen con la letra "a".
     //Devolver un nuevo array con los elementos que cumplen la condición
     //Tu código:
-    var conA = array.filter(palabra => palabra.charAt(0) === 'a');
+    let conA = array.filter(palabra => palabra.charAt(0) === 'a');
     return conA;
 }
 

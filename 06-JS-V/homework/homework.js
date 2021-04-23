@@ -1,3 +1,6 @@
+/* jshint esversion : 6 */
+
+
 // No cambies los nombres de las funciones.
 
 function crearUsuario() {
@@ -10,18 +13,15 @@ function crearUsuario() {
     // Tu código:
 
 
-    class Usuario {
-        constructor(opciones) {
-            this.usuario = opciones.usuario,
-                this.nombre = opciones.nombre,
-                this.email = opciones.email,
-                this.password = opciones.password
-        }
-        saludar() {
+    function Usuario(opciones) {
+        this.usuario = opciones.usuario;
+        this.nombre = opciones.nombre;
+        this.email = opciones.email;
+        this.password = opciones.password;
+        Usuario.prototype.saludar = function() {
             return 'Hola, mi nombre es ' + this.nombre;
-        }
+        };
     }
-
     return Usuario;
 
 }
@@ -64,13 +64,18 @@ function agregarStringInvertida() {
 class Persona {
     constructor(nombre, apellido, edad, domicilio) {
         // Crea el constructor:
-        this.nombre = nombre,
-            this.apellido = apellido,
-            this.edad = edad,
-            this.domicilio = domicilio
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.edad = edad;
+        this.domicilio = domicilio;
     }
-    detalle(Persona) {
-        return Persona;
+    detalle() {
+        return {
+            nombre: this.nombre,
+            apellido: this.apellido,
+            edad: this.edad,
+            domicilio: this.domicilio
+        };
     }
 }
 
@@ -94,9 +99,8 @@ function agregarMetodo() {
     //La función agrega un método "datos" a la clase Persona que toma el nombre y la edad de la persona y devuelve: 
     //Ej: "Juan, 22 años"
     Persona.prototype.datos = function() {
-        return `${this.nombre}, ${this.edad} años`;
+        return this.nombre + ', ' + this.edad + ' años';
     };
-    return Persona.prototype.datos;
 }
 
 
